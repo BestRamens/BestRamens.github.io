@@ -2,7 +2,6 @@
 <html>
 <link rel="stylesheet" type="text/css" href="ramencss.css">
 <head>
-	<title>Best Ramens</title>
 </head>
 <body>
 	<h1><b>ラーメン : Les Différents Ramens</b></h1>
